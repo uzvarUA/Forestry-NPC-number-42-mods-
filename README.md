@@ -17,7 +17,7 @@
 ***
 # Завантажити
 > [!WARNING]
-> Тільки для версії Minecraft Bedrock Edition (Patched) 1.21.60
+> Тільки для версії Minecraft Bedrock Edition (Patched) 1.21.60 <br>
 > [Завантажити](https://github.com/uzvarUA/Forestry-NPC-number-42-mods-/releases)<br>
 ***
 # Зйомки
