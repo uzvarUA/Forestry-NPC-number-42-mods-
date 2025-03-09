@@ -14,3 +14,7 @@
 * Встановити `Копія world.mctemplate`
 * Встановити `Копія Дом для подписчиков от Компота.mctemplate`<br>
 ***
+# Завантажити
+> [!WARNING]
+> Тільки для версії Minecraft Bedrock Edition (Patched) 1.21.60
+> [Завантажити](https://github.com/uzvarUA/Forestry-NPC-number-42-mods-/releases)<br>
